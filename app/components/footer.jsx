@@ -21,6 +21,7 @@ function Footer() {
                             Dong-In Seo
                         </Link>
                     </p>
+
                     <div className="flex items-center gap-5">
                         {/* // TODO Activate after publishing your portfolio on */}
                         Thank you for your time :)

@@ -1,3 +1,3 @@
 # Dong-In Seo Portfoilo
 
-Special Thanks to Aayush-683
+This website is made with React.js, Next.js, Tailwind, CSS, and Vercel. Special thanks to Aayush-683.
