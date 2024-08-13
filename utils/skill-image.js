@@ -73,7 +73,7 @@ import webix from "/public/svg/skills/webix.svg";
 import wolframalpha from "/public/svg/skills/wolframalpha.svg";
 import wordpress from "/public/svg/skills/wordpress.svg";
 import pandas from "/public/svg/skills/pandas.svg";
-import keras from "/public/svg/skills/keras.svg";
+import keras from "/public/svg/skills/Keras.svg";
 import matplotlib from "/public/svg/skills/matplotlib.svg";
 import R from "/public/svg/skills/R.svg";
 
